@@ -12,8 +12,28 @@
     --brand-color-steam: #0A1F45;
     --brand-color-discord: #F7F7F7;
     --brand-color-amazon: #FF9900;
+    --brand-color-aws: var(--brand-color-amazon);
     --brand-color-stripe: #635BFF;
     --brand-color-ebay: #86B817;
     --brand-color-netflix: #E50914;
     --brand-color-bluesky: #0085FF;
+    --brand-color-socure: #FE6901;
+    --brand-color-webull: #1942E0;
+    --brand-color-google-blue: #4285F4;
+    --brand-color-google-green: #34A853;
+    --brand-color-google-yellow: #E78724;
+    --brand-color-google-red: #FF0033;
+    --brand-color-google-sheets: var(--brand-color-google-green);
+    --brand-color-google-docs: var(--brand-color-google-blue);
+    --brand-color-google-slides: var(--brand-color-google-yellow);
+    --brand-color-youtube: var(--brand-color-google-red);
+    --brand-color-google-forms: #7248B9;
+    --brand-color-proton: #6D4AFF;
+    --brand-color-ebay-red: #F02D2D;
+    --brand-color-ebay-blue: #0968F6;
+    --brand-color-ebay-green: #92C821;
+    --brand-color-ebay-yellow: #FFBD14;
+    --brand-color-plex: #EBAF00;
+    --brand-color-monarch: #FF692D;
+    --brand-color-atlassian: #1868DB;
 }
